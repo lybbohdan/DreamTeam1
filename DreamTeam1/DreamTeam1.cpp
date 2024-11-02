@@ -2,6 +2,6 @@
 
 int main()
 {
-   
+	int m = 25;
 }
 
